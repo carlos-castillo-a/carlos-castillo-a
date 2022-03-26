@@ -6,7 +6,9 @@ Welcome to my public profile. I have created this as a private space to store pe
 
 A good place to start looking at my work is to see my Infrastructure file (https://github.com/carlos-castillo-a/carlos-castillo-a/blob/main/Diagrams/Infrastructure-Backbone.md) that contains a diagrams of my base infrastructue (with more to be added).
 
-### Helpful git commands
+## Helpful git commands
+To keep my sanity, I will record some helpful git commands that I will keep using.
+
 1. git clone <repository URL> -b <branch name>      | Clone Repo with specific branch
 2. git checkout <branch name>                       | Switch branch being worked on
    git checkout -b <branch name>                    | Create new branch
