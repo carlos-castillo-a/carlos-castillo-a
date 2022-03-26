@@ -4,7 +4,7 @@ Welcome to my public profile. I have created this as a private space to store pe
 
 ## Explore
 
-A good place to start looking at my work is to see my Diagrams/Infrastructure-Backbone.md file contains a diagrams of my base infrastructue (with more to be added).
+A good place to start looking at my work is to see my Infrastructure file (https://github.com/carlos-castillo-a/carlos-castillo-a/blob/main/Diagrams/Infrastructure-Backbone.md) that contains a diagrams of my base infrastructue (with more to be added).
 
 ### Helpful git commands
 1. git clone <repository URL> -b <branch name>      | Clone Repo with specific branch
