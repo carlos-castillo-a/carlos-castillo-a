@@ -1,7 +1,10 @@
 # Hi, I’m Carlos Castillo
 
 Welcome to my public profile. I have created this as a private space to store personal projects and showcase my learning. 
-For my own sanity, I will be writing helpful git commands to pull and deploy via terminal.
+
+## Explore
+
+A good place to start looking at my work is to see my Diagrams/Infrastructure-Backbone.md file contains a diagrams of my base infrastructue (with more to be added).
 
 ### Helpful git commands
 1. git clone <repository URL> -b <branch name>      | Clone Repo with specific branch
