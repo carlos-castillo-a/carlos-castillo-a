@@ -1,6 +1,6 @@
 # Hi, I’m Carlos Castillo
 
-Welcome to my public profile. I have created this as a private space to store personal projects and showcase my learning. 
+Welcome to my public profile. I have created this as a public space to store personal projects and showcase my learning. 
 
 ## Explore
 
