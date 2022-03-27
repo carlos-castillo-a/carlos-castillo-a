@@ -4,7 +4,7 @@ Welcome to my public profile. I have created this as a private space to store pe
 
 ## Explore
 
-A good place to start looking at my work is to see my Infrastructure file (link) that contains a diagrams of my base infrastructue that is used throughout current and future projects (with more to be added).
+A good place to start looking at my work is to see my Infrastructure file (https://github.com/carlos-castillo-a/carlos-castillo-a/blob/main/Infrastructure-diagram.md) that contains a diagrams of my base infrastructue that is used throughout current and future projects (with more to be added).
 
 ## Helpful git commands
 To keep my sanity, I will record some helpful git commands that I will keep using.
