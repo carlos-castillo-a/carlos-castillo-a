@@ -23,7 +23,7 @@ If there is an empty line after the subject, the body will be recorded.
 The body should have a standard format for a more detail explanation:\
     - Difference: What is different now?\
     - Reason: What is the reason for the change\
-    - Notes: Anything to watch out for?\
+    - Notes: Anything to watch out for?
 
 
 # Branching
@@ -45,8 +45,7 @@ A pull request is performed when proposing changes/merges to a branch that can b
 
 # Merge & Rebase
 When performing a merge, git will look at the differences in commits between branches and most commonly, a **Merge Commit** will occur.
-A  **Merge Commit** is automatically created by Git, and connects two branches to a single point where both branches match. 
-
+A  **Merge Commit** is automatically created by Git, and connects two branches to a single point where both branches match.\ 
 Rebase will make changes to branches in a more linear pattern. It will rewrite the order of commits to create a single branch from two with different types of commits.
 Generally won't be used by me unless future conflicts occur. 
 
