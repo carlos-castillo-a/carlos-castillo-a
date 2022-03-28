@@ -3,9 +3,9 @@
 # VS Code and Github
 In creating repositories and using VS Code to edit files/create git commands, I am learning a few helpful rules that I want to keep in mind.
 I found a few extensions that have helped me keep track of my changes and understand what actions I am performing:
-    - GitLens
-    - PasteImage
-    - Github Pull Requests & Issues
+    - GitLens\
+    - PasteImage\
+    - Github Pull Requests & Issues\
 
 
 # Commits
@@ -15,25 +15,25 @@ Making a commit in VS Code is actually a simple push of a button:
 
 ![](2022-03-27-19-43-03.png)
 
-While this makes things easy, it is important to keep **commits** at a minimum, keeping the commits related to one another.
+While this makes things easy, it is important to keep **commits** at a minimum, keeping the commits related to one another. This will make for much cleaner projects in the future.
 
 ### Commit Messages
 The subject line should be a concise summary of what the change is. VS Code command palette doesn't have a way to add description lines so for long descriptions, they can be done in Terminal.
 If there is an empty line after the subject, the body will be recorded.
-The body should have a standard format for a more detail explanation:
-    - Difference: What is different now?
-    - Reason: What is the reason for the change
-    - Notes: Anything to watch out for?
+The body should have a standard format for a more detail explanation:\
+    - Difference: What is different now?\
+    - Reason: What is the reason for the change\
+    - Notes: Anything to watch out for?\
 
 
 # Branching
 Branching strategy beigings with creating a good naming convention that each branch will have. Initially I was clueless on this step, but that was because I could not forsee my projects.
-For my purposes, the branches I have are based on actions made by those branches. In this public repository, the long-running branches I will be using are:
-    -main
-        - restructure-master
-        - new_files-master
-        - remove_files-master
-It is just a beginning, things may change in the future but it will help keep track of what kind of changes are being committed. 
+For my purposes, the branches I have are based on actions made by those branches. In this public repository, the long-running branches I will be using are:\
+    -main\
+        - restructure-master\
+        - new_files-master\
+        - remove_files-master\
+It is just a beginning, things may change in the future but it will help keep track of what kind of changes are being committed. \
 Commits should generally not be added directly to the *main* brach, that branch should only be updated through merges as in real scenarios.
 
 
