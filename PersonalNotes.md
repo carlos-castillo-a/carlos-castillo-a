@@ -2,11 +2,10 @@
 **---START---**
 # VS Code and Github
 In creating repositories and using VS Code to edit files/create git commands, I am learning a few helpful rules that I want to keep in mind.
-I found a few extensions that have helped me keep track of my changes and understand what actions I am performing:
+I found a few extensions that have helped me keep track of my changes and understand what actions I am performing:\
     - GitLens\
     - PasteImage\
-    - Github Pull Requests & Issues\
-
+    - Github Pull Requests & Issues
 
 # Commits
 Staging in VS Code appears different than in command line; when a change is made, it is automatically noticed and tracked by the editor which you can review in the Source Control tab. 
