@@ -7,7 +7,6 @@ I found a few extensions that have helped me keep track of my changes and unders
     - PasteImage\
     - Github Pull Requests & Issues\
 
-
 # Commits
 Staging in VS Code appears different than in command line; when a change is made, it is automatically noticed and tracked by the editor which you can review in the Source Control tab. 
 The "messages" tab appears under any changes and I initially thought these messages were meant to be terminal commands which is why my early commits have command-like descriptions.
@@ -61,5 +60,17 @@ git checkout -b <branch name>                    | Create new branch
 7. git pull                                         | Fetch changes in remote branch and sync locally
 8. git add                                          | Stage changed files
 9. git branch                                       | List all branches in repository
+
+**---END---**
+
+# April 4, 2022 1:15 PM CST
+**---START---**
+
+# Merge & Rebase
+I am learning that the merge and rebase processes are much different than I imagined. I am trying to perfect a proper workflow so when I begin creating environments I don't mess up.\
+Merging is a bit more complicated than I thought. Initially, I wanted to have a longstanding secondary branch that I can use to update master when I see fit. I realize that merging will get rid of my branch meaning that I have to create a new branch for new changes (which now makes sense). \
+My plan is to use Feature branches with naming convention "Feature-001-summary".
+
+![](2022-04-04-13-38-28.png)
 
 **---END---**
